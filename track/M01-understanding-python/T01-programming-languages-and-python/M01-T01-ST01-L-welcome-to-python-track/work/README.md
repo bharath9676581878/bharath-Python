@@ -2,26 +2,25 @@
 
 ## My Name
 
-Write your name.
+G BHARATH KUMAR
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+BASICS OF BOTH JAVA AND PYHTON
 
 ## Why I Selected Python
 
-Write your reason in your own words.
-
+I HAVE SELECTEED PYTHON BECAUSE IN FUTURE I WANT TO WORK IN AI AND ML DOMAIN 
 ## My Career Goal
 
-Write the role you want to achieve.
+GO GET A JOB IN MNC 
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences: 
 
 Programming means:
+HOW TO CONNECT GIT HUB AND ANTI GRAVITY AND ETC
+Python is: A PROGRAMMING LANGUAGE THAT IS USED TO DEVELOP VARIOUS APPLICATIONS
 
-Python is:
-
-In this track, I will learn:
+In this track, I will learn: PYTHON AND ITS USAGES
